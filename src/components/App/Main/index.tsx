@@ -1,12 +1,14 @@
 import React from 'react';
-// import './index.scss';
+import './index.scss';
 
 export const Main: React.FC = () => {
     return (
         <div>
-            <main>
-                main
-            </main>
+        <main>
+            <span>
+            main
+            </span>
+        </main>
         </div>
     );
 };
