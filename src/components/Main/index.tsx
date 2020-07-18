@@ -4,11 +4,11 @@ import './index.scss';
 export const Main: React.FC = () => {
     return (
         <div>
-        <main>
-            <span>
-            main
+            <main>
+                <span>
+                    main
             </span>
-        </main>
+            </main>
         </div>
     );
 };
