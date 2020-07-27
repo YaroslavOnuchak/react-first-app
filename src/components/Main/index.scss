@@ -1,3 +1,17 @@
+@import '../../styles/variables.scss';
+
+.tags-list {
+    border-top: 1px solid $color-diver;
+
+    &__group {
+        border-top: 1px solid $color-diver;
+
+        &-title {}
+
+        &-content {}
+    }
+}
+
 span {
     background-color: thistle;
 }

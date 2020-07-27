@@ -1,5 +1,9 @@
+@import '../../styles/variables';
+
 .App {
     text-decoration: none;
-    max-width      : 1600px;
-    margin         : 0 auto;
+    max-width: 1600px;
+    margin: 0 auto;
+    padding-top: $base+10;
+    padding-bottom: $base+10;
 }
